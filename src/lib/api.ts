@@ -47,7 +47,7 @@ export async function fetchRecommendations(mood: string, context: string, page: 
         const genres = moodGenres[mood] || [35]
         const params: any = {
             api_key: TMDB_API_KEY,
-            with_genres: genres.join(','),
+            with_genres: genres.join('|'),
             'vote_average.gte': 6.0,
             'vote_count.gte': 100,
             include_adult: false,
