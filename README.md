@@ -12,14 +12,18 @@
 The primary aim of this project is to eliminate the common friction and indecision associated with selecting a movie for a specific social setting or mood. By leveraging a high-fidelity cinematic intelligence engine, the application provides curated, highly relevant movie recommendations quickly and elegantly.
 
 <br />
-<div style="height: 2px; width: 100%; background: linear-gradient(90deg, transparent, #b91c1c, transparent); animation: pulse 2s infinite;"></div>
+<div align="center">
+  <img src="src/assets/divider.svg" width="100%" />
+</div>
 <br />
 
 ## Problem
 Viewers frequently spend an excessive amount of time scrolling through vast streaming libraries without making a choice. This phenomenon, often called "decision fatigue" or "analysis paralysis," occurs because generic movie lists do not account for the immediate emotional state (mood) or the specific social environment (solo, friends, partner) of the user. The sheer volume of choices becomes a barrier rather than a benefit.
 
 <br />
-<div style="height: 2px; width: 100%; background: linear-gradient(90deg, transparent, #b91c1c, transparent); animation: pulse 2s infinite;"></div>
+<div align="center">
+  <img src="src/assets/divider.svg" width="100%" />
+</div>
 <br />
 
 ## Solution
@@ -30,7 +34,9 @@ This application solves the problem by transforming the movie selection process 
 The system maps these inputs to specific cinematic genres and constraints, interfacing with the TMDB API to pull highly rated, relevant titles. The interface is deliberately designed with a premium, focused, and distraction-free aesthetic to streamline the path to visualization.
 
 <br />
-<div style="height: 2px; width: 100%; background: linear-gradient(90deg, transparent, #b91c1c, transparent); animation: pulse 2s infinite;"></div>
+<div align="center">
+  <img src="src/assets/divider.svg" width="100%" />
+</div>
 <br />
 
 ## Key Features
@@ -42,7 +48,9 @@ The system maps these inputs to specific cinematic genres and constraints, inter
 * **Live Status Integration:** Real-time system monitoring and connectivity indicators.
 
 <br />
-<div style="height: 2px; width: 100%; background: linear-gradient(90deg, transparent, #b91c1c, transparent); animation: pulse 2s infinite;"></div>
+<div align="center">
+  <img src="src/assets/divider.svg" width="100%" />
+</div>
 <br />
 
 ## Tech Stack
@@ -56,7 +64,9 @@ The project is built with a state-of-the-art web stack for maximum performance a
 ![Lucide](https://img.shields.io/badge/Lucide_Icons-FF4B4B?style=for-the-badge&logoColor=white)
 
 <br />
-<div style="height: 2px; width: 100%; background: linear-gradient(90deg, transparent, #b91c1c, transparent); animation: pulse 2s infinite;"></div>
+<div align="center">
+  <img src="src/assets/divider.svg" width="100%" />
+</div>
 <br />
 
 ## Project Structure
@@ -78,7 +88,9 @@ src/
 ```
 
 <br />
-<div style="height: 2px; width: 100%; background: linear-gradient(90deg, transparent, #b91c1c, transparent); animation: pulse 2s infinite;"></div>
+<div align="center">
+  <img src="src/assets/divider.svg" width="100%" />
+</div>
 <br />
 
 ## Flow Diagrams
@@ -110,7 +122,9 @@ graph LR
 ```
 
 <br />
-<div style="height: 2px; width: 100%; background: linear-gradient(90deg, transparent, #b91c1c, transparent); animation: pulse 2s infinite;"></div>
+<div align="center">
+  <img src="src/assets/divider.svg" width="100%" />
+</div>
 <br />
 
 ## Configuration and Getting Started
@@ -129,7 +143,9 @@ VITE_TMDB_API_KEY=your_tmdb_api_key_here
 4. Build for production: `npm run build`
 
 <br />
-<div style="height: 2px; width: 100%; background: linear-gradient(90deg, transparent, #b91c1c, transparent); animation: pulse 2s infinite;"></div>
+<div align="center">
+  <img src="src/assets/divider.svg" width="100%" />
+</div>
 <br />
 
 ## Performance and Optimization
@@ -139,7 +155,9 @@ VITE_TMDB_API_KEY=your_tmdb_api_key_here
 * **Hardware Accelerated Animations:** Leveraging CSS transforms for smooth 60fps interactions.
 
 <br />
-<div style="height: 2px; width: 100%; background: linear-gradient(90deg, transparent, #b91c1c, transparent); animation: pulse 2s infinite;"></div>
+<div align="center">
+  <img src="src/assets/divider.svg" width="100%" />
+</div>
 <br />
 
 ## Developer Information
